@@ -4,12 +4,12 @@ This is the repository for the learning materials from the **3050571: Pracical C
 Lectures were taught in Thai but the slides and assignments are in English.
 
 ## Announcements
-* **Location**: Classes will be held at Bhumisiri Building, 8th Floor, Zone C
-* **Time**: See the [schedule](TBD) for more details
+* **Location**: Classes will be held in the conference room at **Bhumisiri Building, 8th Floor, Zone C** (look for Stem Cell Center)
+* **Time**: See the [schedule](https://github.com/cmb-chula/clini-data-science-3050571/blob/main/3050571_syllabus_schedule.pdf) for more details
   * Lecture and recitation on Tuesday and Thursday 1-2pm (except the first class on Jan 30 which will be 1-3pm)
   * Python workshop on Friday 1-3pm (**bring your computer**, except on March 8 which will be a recitation) + Wednesday March 6
 * **Contact**:
-  * Post your questions / comments in the [Discussion](TBD)
+  * Post your questions / comments in the [Discussion](https://github.com/cmb-chula/clini-data-science-3050571/discussions)
   * Emails and phone numbers for myself and TAs will be given in the first class
 
 ## What can you find here?
