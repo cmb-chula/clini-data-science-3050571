@@ -19,7 +19,7 @@ Lectures were taught in Thai but the slides and assignments are in English.
 4. *Links to recorded videos (TBD)*
 
 ## Course structure
-This is a 6-week course that mixes independent study of online contents with in-class recitation and Python workshop. Assignments include [Kaggle Python modules](https://www.kaggle.com/learn) and analysis of public clinical datasets. Half of the course involve an active intership with the Data Team at King Chulalongkorn Memorial Hospital where students are expected to participate in drafting solutions for real-world use cases.
+This is a 6-week course that mixes independent study of online contents with in-class recitation and Python workshop. The total assigned videos range from 1-3 hours for each session. Assignments include [Kaggle Python modules](https://www.kaggle.com/learn) and analysis of public clinical datasets. Half of the course involve an active intership with the Data Team at King Chulalongkorn Memorial Hospital where students are expected to participate in drafting solutions for real-world use cases.
 
 ### Key topics
 1. Computational thinking
@@ -51,33 +51,80 @@ This is a 6-week course that mixes independent study of online contents with in-
 
 ### Assigned practice
 *	[Python code editors](https://www.youtube.com/watch?v=5pf0_bpNbkw)
-*	Kaggle [Intro to programming](https://www.kaggle.com/learn/intro-to-programming) and [Python](https://www.kaggle.com/learn/python)
+*	Kaggle [Intro to programming](https://www.kaggle.com/learn/intro-to-programming) and [Python](https://www.kaggle.com/learn/python) lessons
 
 ## Week 2 - Data Exploration and Storytelling
 ### Key learning points
+* What can (and can't) the data tell us?
+* What are the right statistical & analytical techniques for your hypothesis?
+* How to pick the right graphs to tell your story?
 
 ### Assigned study
+#### Statistics and probability
+* MIT 6.0002 [Stochastic Thinking](https://www.youtube.com/watch?v=-1BnXEwHUok) and [Sampling](https://www.youtube.com/watch?v=soZv_KKax3E)
+* StatQuest [Hypothesis Testing](https://www.youtube.com/watch?v=0oc49DyA3hU), [P-value](https://www.youtube.com/watch?v=vemZtEM63GY), and [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc) clips
+* **Extra reading** from MIT 18.05 summary notes on [Probability](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/resources/mit18_05_s22_probability_pdf/) and [Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/resources/mit18_05_s22_statistics_pdf/). You are not expected to understand everything in this class, but you should understand everything for your future career.
+
+#### Data handling and visualization
+* [Exploratory data analysis with Python](https://www.youtube.com/watch?v=xi0vhXFPegw)
+* [Basic visualization with Python](https://www.youtube.com/watch?v=UO98lJQ3QGI)
+* [Story telling with graphs design](https://www.youtube.com/watch?v=Hfx1X9WSGYQ)
 
 ### Assigned homework
+*	Kaggle [Data Handling](https://www.kaggle.com/learn/pandas) (for tabular data) and [Visualization](https://www.kaggle.com/learn/data-visualization) lessons
+* Kaggle [Titanic Dataset](https://www.kaggle.com/competitions/titanic)
+  * At this stage, you are asked to develop hypotheses, explore the data, perform statistical tests, and visualize graphs to tell something interesting and informative
+  * For example, what were the demographics of the passengers? Which factors did you think are predictive of survival, and did the data agree? Who were the survivors?
 
 ## Week 3 - Unsupervised Learning
 ### Key learning points
+* How can we learn from unlabeled data (such as clinical data without diagnosis result)?
+* How do dimensionality reduction and clustering techniques work? What are the pros and cons? How to interpret?
 
 ### Assigned study
+#### Dimensionality reduction
+* The first 24 minutes of Andrew Ng's [Dimensionality Reduction](https://www.youtube.com/watch?v=pAwjiGkafbM) lecture
+* StatQuest Principal Component Analysis (PCA)'s [Concept](https://www.youtube.com/watch?v=FgakZw6K1QQ) and [Practical Points](https://www.youtube.com/watch?v=oRvgq966yZg)
+* **Extra** PCA explanations from [Steve Brunton](https://www.youtube.com/watch?v=Oi4SJqJIL2E) and [University of Tubingen](https://www.youtube.com/watch?v=xBf_LZ5ZgY4)
+* The first 33 minutes of University of Tubingen's [Manifold and t-SNE]([https://www.youtube.com/watch?v=pAwjiGkafbM](https://www.youtube.com/watch?v=MnRskV3NY1k)) lecture
+* StatQuest [t-distributed Stochastic Neighbor Embedding](https://www.youtube.com/watch?v=NEaUSP4YerM)
+
+#### Clustering
+* MIT 6.0002 introduction to [Clustering](https://www.youtube.com/watch?v=esmzYhuFnds)
+* StatQuest [k-Mean](https://www.youtube.com/watch?v=4b5d3muPQmA), [Hierarchical Clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo), and [DBSCAN](https://www.youtube.com/watch?v=RDZUdRSDOok) explanation
+* More technical explanation from [University of Tubingen](https://www.youtube.com/watch?v=mU3GZaOoVDA)
 
 ### Assigned homework
+*	Kaggle [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) lesson
+*	Python for Health Data Science's exercises on [Emergency Department](https://www.pythonhealthdatascience.com/content/02_stat_prog/03_exercises/01_data_wrangling_matplotlib.html), [Stroke](https://www.pythonhealthdatascience.com/content/02_stat_prog/03_exercises/02_stroke_data_wrangling.html), and [Readmission](https://www.pythonhealthdatascience.com/content/02_stat_prog/03_exercises/03_visualise_ts.html) datasets
+* [Operating Room Utilization]()
+* [Colorectal Cancer Molecular Subtyping]()
 
 ## Week 4 - Supervised Learning
 ### Key learning points
+* How does the computer learn to make prediction?
+* What are the key parameters describing each model? How can we optimize them using our data?
 
 ### Assigned study
+#### Principles of machine learning
+* MIT 6.0002 [Machine Learning](https://www.youtube.com/watch?v=h0e2HAPTGF4) and [Classification](https://www.youtube.com/watch?v=eg8DJYwdMyg)
+* StatQuest [Ridge Regression](https://www.youtube.com/watch?v=Q81RR3yKn30), [LASSO Regression](https://www.youtube.com/watch?v=NGf0voTMlcs), [Logistic Regression Part 1](https://www.youtube.com/watch?v=vN5cNN2-HWE), [Logistic Regression Part 2](https://www.youtube.com/watch?v=BfKanl1aSG0), and [Support Vector Machine](https://www.youtube.com/watch?v=efR1C6CvhmE)
+* StatQuest [Bias vs Variance Tradeoff](https://www.youtube.com/watch?v=EuBBz3bI-aA) principle
+
+#### Tree models
+* StatQuest [Decision Tree](https://www.youtube.com/watch?v=_L39rN6gz7Y), [Random Forest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ), and [Adaptive Boosting](https://www.youtube.com/watch?v=LsK-xG1cLYA)
+* StatQuest [XGBoost library in Python](https://www.youtube.com/watch?v=GrJP9FLV3FE)
 
 ### Assigned homework
+* Kaggle [Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning) and [Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning) lessons
+* Predicting hospital admission using Emergency Department dataset from [Hong, W.S. *et al*. PLOS ONE 2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201016) 
 
 ## Week 5 - Introduction to Deep Learning and AI
 ### Key learning points
 
+
 ### Assigned study
+
 
 ### Assigned homework
 
