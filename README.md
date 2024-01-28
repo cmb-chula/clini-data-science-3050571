@@ -63,7 +63,7 @@ This is a 6-week course that mixes independent study of online contents with in-
 #### Statistics and probability
 * MIT 6.0002 [Stochastic Thinking](https://www.youtube.com/watch?v=-1BnXEwHUok) and [Sampling](https://www.youtube.com/watch?v=soZv_KKax3E)
 * StatQuest [Hypothesis Testing](https://www.youtube.com/watch?v=0oc49DyA3hU), [P-value](https://www.youtube.com/watch?v=vemZtEM63GY), and [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc) clips
-* **Extra reading** from MIT 18.05 summary notes on [Probability](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/resources/mit18_05_s22_probability_pdf/) and [Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/resources/mit18_05_s22_statistics_pdf/). You are not expected to understand everything in this class, but you should understand everything for your future career.
+* **Extra**: MIT 18.05 summary notes on [Probability](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/resources/mit18_05_s22_probability_pdf/) and [Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/resources/mit18_05_s22_statistics_pdf/). You are not expected to understand everything in this class, but you should understand everything for your future career.
 
 #### Data handling and visualization
 * [Exploratory data analysis with Python](https://www.youtube.com/watch?v=xi0vhXFPegw)
@@ -85,7 +85,7 @@ This is a 6-week course that mixes independent study of online contents with in-
 #### Dimensionality reduction
 * The first 24 minutes of Andrew Ng's [Dimensionality Reduction](https://www.youtube.com/watch?v=pAwjiGkafbM) lecture
 * StatQuest Principal Component Analysis (PCA)'s [Concept](https://www.youtube.com/watch?v=FgakZw6K1QQ) and [Practical Points](https://www.youtube.com/watch?v=oRvgq966yZg)
-* **Extra** PCA explanations from [Steve Brunton](https://www.youtube.com/watch?v=Oi4SJqJIL2E) and [University of Tubingen](https://www.youtube.com/watch?v=xBf_LZ5ZgY4)
+* **Extra**: PCA explanations from [Steve Brunton](https://www.youtube.com/watch?v=Oi4SJqJIL2E) and [University of Tubingen](https://www.youtube.com/watch?v=xBf_LZ5ZgY4)
 * The first 33 minutes of University of Tubingen's [Manifold and t-SNE]([https://www.youtube.com/watch?v=pAwjiGkafbM](https://www.youtube.com/watch?v=MnRskV3NY1k)) lecture
 * StatQuest [t-distributed Stochastic Neighbor Embedding](https://www.youtube.com/watch?v=NEaUSP4YerM)
 
@@ -121,16 +121,41 @@ This is a 6-week course that mixes independent study of online contents with in-
 
 ## Week 5 - Introduction to Deep Learning and AI
 ### Key learning points
-
+* What are deep learning and artificial neural network?
+* How did modern AI emerge? Why is AI so powerful today?
 
 ### Assigned study
+#### Artificial intelligence
+* An introduction by [COMPSCI188](https://www.youtube.com/watch?v=16Dir4QqCUg) at UC Berkeley
+* Stanford webminar on [How can AI improve healthcare?](https://www.youtube.com/watch?v=7rs79MUDId0)
+* TEDx talk by [A Doctor Who Code](https://www.youtube.com/watch?v=Et5HC8SR0BA)
 
+#### Deep learning
+* MIT 6.S191 [Introduction to Deep Learning](https://www.youtube.com/watch?v=QDX-1M5Nj7s) and [Convolutional Neural Network](https://www.youtube.com/watch?v=NmLK_WQBxB4)
+* **Extra**: MIT 6.S191 [Recurrent Neural Network, Transformer, and Attention](https://www.youtube.com/watch?v=ySEx_Bqxvvo) and [Reinforcement Learning](https://www.youtube.com/watch?v=AhyznRSDjw8)
 
 ### Assigned homework
+* Kaggle [Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) and [Computer Vision](https://www.kaggle.com/learn/computer-vision) lessons
+* Kaggle [Digit MNIST Dataset](https://www.kaggle.com/competitions/digit-recognizer)
+  * Use unsupervised learning technique to visualize the data
+  * Develop linear, tree, and artificial neural network models
+* [Chula's COVID-19 Home Isolation Dataset](https://github.com/cmb-chula/cu-covid19-isolation/tree/main)
+  * Predict whether a particular patient will develop pneumonia and be admitted to a hospital within 3 days
 
 ## Week 6 - AI Explainability and Pitfall
 ### Key learning points
+* How can we understand decisions made by the model?
+* What should we be concerned about when developing a medical AI?
 
 ### Assigned study
+#### Explainability
+* Stanford webminar on [Motivation](https://www.youtube.com/watch?v=_DYQdP_F-LA), [Explainability Techniques (first 30 min)](https://www.youtube.com/watch?v=_6n8r523QP8), and [How to Evaluate (first 40 min)](https://www.youtube.com/watch?v=htjpbbvHJQo)
+* MIT 6.S191 [Robustness and Trustworthiness](https://www.youtube.com/watch?v=kIiO4VSrivU)
+
+#### AI project design
+* Stanford symposium on [Responsible Implementation of AI in Healthcare](https://www.youtube.com/watch?v=RCIleZj3rp8)
+* TensorFlow tech talk on [Building AI Models for Healthcare](https://www.youtube.com/watch?v=UZEstizNxkg) and [Best Practices for ML Product Decisions](https://www.youtube.com/watch?v=2aWh3-Wnb-A)
 
 ### Assigned homework
+* Kaggle [Explainability](https://www.kaggle.com/learn/machine-learning-explainability) lesson
+* A CVPR 2021 [CXR tutorial on Explainability](https://alistairewj.github.io/talk/2021-cvpr-cxr-tutorial/) by Dr. Alistair Johnson with both video and Google Colab notebook
