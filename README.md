@@ -38,6 +38,12 @@ This is a 6-week course that mixes independent study of online contents with in-
 * [MIT 6.S897 ML for Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/) covers more real-world applications of AI in healthcare.
 * [StatQuest YouTube channel](https://www.youtube.com/@statquest) presents bite-size visual explanation of computational techniques.
 
+## Timeline for internship with hospital data team
+* Pick a problem they want to tackle by **Week 2**
+* Submit a draft proposal on how to solve the problem by **Week 3** and a refined proposal by **Week 4**
+* Work with the data team to test the proposed solution
+* Present the findings and progress at the end of the course on **Week 6**
+
 ## Week 1 - Computational Thinking
 ### Key learning points
 * What is computational thinking and how do you apply it to solve problem?
