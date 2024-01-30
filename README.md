@@ -79,8 +79,9 @@ This is a 6-week course that mixes independent study of online contents with in-
 ### Assigned homework
 *	Kaggle [Data Handling](https://www.kaggle.com/learn/pandas) (for tabular data) and [Visualization](https://www.kaggle.com/learn/data-visualization) lessons
 * Kaggle [Titanic Dataset](https://www.kaggle.com/competitions/titanic)
-  * At this stage, you are asked to develop hypotheses, explore the data, perform statistical tests, and visualize graphs to tell something interesting and informative
-  * For example, what were the demographics of the passengers? Which factors did you think are predictive of survival, and did the data agree? Who were the survivors?
+  * Explore the data. Develop and test some hypotheses regarding the passengers of the Titanic.
+  * Visualize the patterns to tell something interesting
+  * For example, what were the demographics of the passengers? Who were the survivors? Which factors did you think are predictive of survival? Did the data agree or disagree?
 
 ## Week 3 - Unsupervised Learning
 ### Key learning points
@@ -103,8 +104,13 @@ This is a 6-week course that mixes independent study of online contents with in-
 ### Assigned homework
 *	Kaggle [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) lesson
 *	Python for Health Data Science's exercises on [Emergency Department](https://www.pythonhealthdatascience.com/content/02_stat_prog/03_exercises/01_data_wrangling_matplotlib.html), [Stroke](https://www.pythonhealthdatascience.com/content/02_stat_prog/03_exercises/02_stroke_data_wrangling.html), and [Readmission](https://www.pythonhealthdatascience.com/content/02_stat_prog/03_exercises/03_visualise_ts.html) datasets
-* [Operating Room Utilization]()
-* [Colorectal Cancer Molecular Subtyping]()
+* [Operating Room Utilization](https://www.kaggle.com/datasets/drjfalk/operating-room-utilization) by a Kaggle User
+  * Summarize and visualize the activity of operating room at this hospital.
+  * Extract knowledge. For example, which type of operations occupy the room the longest? Did booked time match well with actual usage?
+* [Colorectal Cancer Molecular Subtyping](https://www.nature.com/articles/nm.3967)
+  * Get the [clinical](https://www.synapse.org/#!Synapse:syn2325330) and [gene expression](https://www.synapse.org/#!Synapse:syn2325328) data (n = 604, Synapse registration required)
+  * Use unsupervised learning technique on gene expressiondata to identify patient subgroups
+  * Test your subgroups with clinical data
 
 ## Week 4 - Supervised Learning
 ### Key learning points
