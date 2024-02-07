@@ -93,7 +93,7 @@ This is a 6-week course that mixes independent study of online contents with in-
 * The first 24 minutes of Andrew Ng's [Dimensionality Reduction](https://www.youtube.com/watch?v=pAwjiGkafbM) lecture
 * StatQuest Principal Component Analysis (PCA)'s [Concept](https://www.youtube.com/watch?v=FgakZw6K1QQ) and [Practical Points](https://www.youtube.com/watch?v=oRvgq966yZg)
 * **Extra**: PCA explanations from [Steve Brunton](https://www.youtube.com/watch?v=Oi4SJqJIL2E) and [University of Tubingen](https://www.youtube.com/watch?v=xBf_LZ5ZgY4)
-* The first 33 minutes of University of Tubingen's [Manifold and t-SNE]([https://www.youtube.com/watch?v=pAwjiGkafbM](https://www.youtube.com/watch?v=MnRskV3NY1k)) lecture
+* The first 33 minutes of University of Tubingen's [Manifold and t-SNE](https://www.youtube.com/watch?v=MnRskV3NY1k) lecture
 * StatQuest [t-distributed Stochastic Neighbor Embedding](https://www.youtube.com/watch?v=NEaUSP4YerM)
 
 #### Clustering
