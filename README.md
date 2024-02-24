@@ -107,7 +107,7 @@ This is a 6-week course that mixes independent study of online contents with in-
 * [Operating Room Utilization](https://www.kaggle.com/datasets/drjfalk/operating-room-utilization) by a Kaggle User
   * Summarize and visualize the activity of operating room at this hospital.
   * Extract knowledge. For example, which type of operations occupy the room the longest? Did booked time match well with actual usage?
-* [Colorectal Cancer Molecular Subtyping](https://www.nature.com/articles/nm.3967)
+* **Extra**: [Colorectal Cancer Molecular Subtyping](https://www.nature.com/articles/nm.3967)
   * Get the [clinical](https://www.synapse.org/#!Synapse:syn2325330) and [gene expression](https://www.synapse.org/#!Synapse:syn2325328) data (n = 604, Synapse registration required)
   * Use unsupervised learning technique on gene expressiondata to identify patient subgroups
   * Test your subgroups with clinical data
@@ -151,7 +151,7 @@ This is a 6-week course that mixes independent study of online contents with in-
 * Kaggle [Digit MNIST Dataset](https://www.kaggle.com/competitions/digit-recognizer)
   * Use unsupervised learning technique to visualize the data
   * Develop linear, tree, and artificial neural network models
-* [Chula's COVID-19 Home Isolation Dataset](https://github.com/cmb-chula/cu-covid19-isolation/tree/main)
+* **Extra**: [Chula's COVID-19 Home Isolation Dataset](https://github.com/cmb-chula/cu-covid19-isolation/tree/main)
   * Predict whether a particular patient will develop pneumonia and be admitted to a hospital within 3 days
 
 ## Week 6 - AI Explainability and Pitfall
