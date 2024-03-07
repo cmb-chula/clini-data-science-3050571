@@ -16,7 +16,6 @@ Lectures were taught in Thai but the slides and assignments are in English.
 1. Lecture and recitation slides
 2. Assigned online video and readings
 3. Python notebooks and data files for the practical sessions
-4. *Links to recorded videos (TBD)*
 
 ## Course structure
 This is a 6-week course that mixes independent study of online contents with in-class recitation and Python workshop. The total assigned videos range from 1-3 hours for each session. Assignments include [Kaggle Python modules](https://www.kaggle.com/learn) and analysis of public clinical datasets. Half of the course involve an active intership with the Data Team at King Chulalongkorn Memorial Hospital where students are expected to participate in drafting solutions for real-world use cases.
