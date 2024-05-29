@@ -98,7 +98,8 @@ This is a 6-week course that mixes independent study of online contents with in-
 #### Clustering
 * MIT 6.0002 introduction to [Clustering](https://www.youtube.com/watch?v=esmzYhuFnds)
 * StatQuest [k-Mean](https://www.youtube.com/watch?v=4b5d3muPQmA), [Hierarchical Clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo), and [DBSCAN](https://www.youtube.com/watch?v=RDZUdRSDOok) explanation
-* More technical explanation from [University of Tubingen](https://www.youtube.com/watch?v=mU3GZaOoVDA)
+* More technical explanation on k-mean from the first 23 minutes of [University of Tubingen](https://www.youtube.com/watch?v=mU3GZaOoVDA)
+* **Extra**: Introduction to network-based clustering from [Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV) [Lecture 24, 28, and 29]
 
 ### Assigned homework
 *	Kaggle [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) lesson
