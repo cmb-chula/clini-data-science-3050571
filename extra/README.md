@@ -1,2 +1,4 @@
 # Extra contents on related topics
-Some from my other special lectures
+Mostly from my other special lectures
+
+[A 2-hr introduction to AI for 1st-year medical student](https://youtu.be/2tpJLmVsyWo)
