@@ -32,8 +32,8 @@ This is a 6-week course that mixes independent study of online contents with in-
 * Some familiarity with the syntax of a programming language
 
 ### Recommended extra resources
-* [MIT 6.036 Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) introduces machine learning at undergraduate level
 * [MIT 6.0002 Computational Thinking](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) dedicates more time to problem-solving and computational thinking practice with Python.
+  [MIT 6.036 Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) is an advanced undergraduate course.
 * [MIT 6.S191 Deep Learning & AI](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) provides deeper knowledge of deep learning and artificial intelligence beyond this course.
 * [University of Tubingen Intro to ML](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT) provides more rigorous understanding of machine learning.
 * [MIT 6.S897 ML for Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/) covers more real-world applications of AI in healthcare.
